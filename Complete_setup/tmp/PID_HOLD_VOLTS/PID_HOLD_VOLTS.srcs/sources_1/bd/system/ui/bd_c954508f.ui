@@ -1,0 +1,191 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.30998",
+   "Default View_TopLeft":"1270,1294",
+   "ExpandedHierarchyInLayout":"/ADC|/Input_Processing",
+   "PinnedBlocks":"/util_ds_buf_1|/util_ds_buf_2|",
+   "PinnedPorts":"daisy_n_i|daisy_p_i|daisy_n_o|daisy_p_o|",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port Vp_Vn -pg 1 -lvl 0 -x -230 -y -1330 -defaultsOSRD
+preplace port Vaux0 -pg 1 -lvl 0 -x -230 -y -1410 -defaultsOSRD
+preplace port Vaux1 -pg 1 -lvl 0 -x -230 -y -1390 -defaultsOSRD
+preplace port Vaux9 -pg 1 -lvl 0 -x -230 -y -1350 -defaultsOSRD
+preplace port Vaux8 -pg 1 -lvl 0 -x -230 -y -1370 -defaultsOSRD
+preplace port DDR -pg 1 -lvl 13 -x 6010 -y 650 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 13 -x 6010 -y 700 -defaultsOSRD
+preplace port port-id_adc_clk_p_i -pg 1 -lvl 0 -x -230 -y 870 -defaultsOSRD
+preplace port port-id_adc_clk_n_i -pg 1 -lvl 0 -x -230 -y 890 -defaultsOSRD
+preplace port port-id_adc_enc_p_o -pg 1 -lvl 13 -x 6010 -y -1370 -defaultsOSRD
+preplace port port-id_adc_enc_n_o -pg 1 -lvl 13 -x 6010 -y -1390 -defaultsOSRD
+preplace port port-id_adc_csn_o -pg 1 -lvl 13 -x 6010 -y 860 -defaultsOSRD
+preplace port port-id_dac_clk_o -pg 1 -lvl 13 -x 6010 -y 800 -defaultsOSRD
+preplace port port-id_dac_rst_o -pg 1 -lvl 13 -x 6010 -y 820 -defaultsOSRD
+preplace port port-id_dac_sel_o -pg 1 -lvl 13 -x 6010 -y 840 -defaultsOSRD
+preplace port port-id_dac_wrt_o -pg 1 -lvl 13 -x 6010 -y 880 -defaultsOSRD
+preplace portBus adc_dat_a_i -pg 1 -lvl 0 -x -230 -y 910 -defaultsOSRD
+preplace portBus adc_dat_b_i -pg 1 -lvl 0 -x -230 -y 930 -defaultsOSRD
+preplace portBus dac_dat_o -pg 1 -lvl 13 -x 6010 -y 1050 -defaultsOSRD
+preplace portBus dac_pwm_o -pg 1 -lvl 13 -x 6010 -y -1410 -defaultsOSRD
+preplace portBus daisy_p_o -pg 1 -lvl 13 -x 6010 -y 1010 -defaultsOSRD
+preplace portBus daisy_n_o -pg 1 -lvl 13 -x 6010 -y 1030 -defaultsOSRD
+preplace portBus daisy_p_i -pg 1 -lvl 0 -x -230 -y 950 -defaultsOSRD
+preplace portBus daisy_n_i -pg 1 -lvl 0 -x -230 -y 990 -defaultsOSRD
+preplace portBus led_o -pg 1 -lvl 13 -x 6010 -y 570 -defaultsOSRD
+preplace portBus exp_p_tri_io -pg 1 -lvl 0 -x -230 -y 850 -defaultsOSRD
+preplace portBus exp_n_tri_io -pg 1 -lvl 0 -x -230 -y -1310 -defaultsOSRD
+preplace inst util_ds_buf_1 -pg 1 -lvl 8 -x 4500 -y 1140 -defaultsOSRD
+preplace inst util_ds_buf_2 -pg 1 -lvl 9 -x 4860 -y 1060 -defaultsOSRD
+preplace inst axis_red_pitaya_dac_0 -pg 1 -lvl 12 -x 5810 -y 840 -defaultsOSRD
+preplace inst ADC -pg 1 -lvl 1 -x 210 -y 2082 -defaultsOSRD
+preplace inst Input_Processing -pg 1 -lvl 2 -x 1340 -y 1562 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -x 210 -y 1170 -defaultsOSRD
+preplace inst Scan_0 -pg 1 -lvl 4 -x 2750 -y 1050 -defaultsOSRD
+preplace inst signal_split_0 -pg 1 -lvl 3 -x 2410 -y 1010 -defaultsOSRD
+preplace inst Ramp_0 -pg 1 -lvl 7 -x 3680 -y 830 -defaultsOSRD
+preplace inst Voltage_Holder_0 -pg 1 -lvl 8 -x 4500 -y 800 -defaultsOSRD
+preplace inst Voltage_Holder_1 -pg 1 -lvl 9 -x 4860 -y 920 -defaultsOSRD
+preplace inst signal_split_2_0 -pg 1 -lvl 9 -x 4860 -y 790 -defaultsOSRD
+preplace inst Latch_0 -pg 1 -lvl 5 -x 3040 -y 1070 -defaultsOSRD
+preplace inst Add_0 -pg 1 -lvl 10 -x 5160 -y 860 -defaultsOSRD
+preplace inst LED_Contoller_0 -pg 1 -lvl 12 -x 5810 -y 570 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 1 -x 210 -y -1310 -defaultsOSRD
+preplace inst axi_gpio_1 -pg 1 -lvl 1 -x 210 -y -830 -defaultsOSRD
+preplace inst axi_gpio_2 -pg 1 -lvl 1 -x 210 -y -990 -defaultsOSRD
+preplace inst axi_gpio_3 -pg 1 -lvl 1 -x 210 -y -1150 -defaultsOSRD
+preplace inst axi_gpio_4 -pg 1 -lvl 1 -x 210 -y -660 -defaultsOSRD
+preplace inst axi_gpio_5 -pg 1 -lvl 1 -x 210 -y -460 -defaultsOSRD
+preplace inst axi_gpio_6 -pg 1 -lvl 1 -x 210 -y -280 -defaultsOSRD
+preplace inst axi_gpio_7 -pg 1 -lvl 1 -x 210 -y 40 -defaultsOSRD
+preplace inst axi_gpio_8 -pg 1 -lvl 1 -x 210 -y 820 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 1 -x 210 -y 440 -defaultsOSRD
+preplace inst rst_ps7_0_50M -pg 1 -lvl 1 -x 210 -y 1900 -defaultsOSRD
+preplace inst axi_gpio_9 -pg 1 -lvl 1 -x 210 -y 990 -defaultsOSRD
+preplace inst axi_gpio_10 -pg 1 -lvl 1 -x 210 -y -120 -defaultsOSRD
+preplace inst util_vector_logic_0 -pg 1 -lvl 7 -x 3680 -y 1080 -defaultsOSRD
+preplace inst Hivemind_0 -pg 1 -lvl 1 -x 210 -y 1500 -defaultsOSRD
+preplace inst util_vector_logic_1 -pg 1 -lvl 6 -x 3310 -y 1070 -defaultsOSRD
+preplace inst PI_ctrl_0 -pg 1 -lvl 8 -x 4500 -y 950 -defaultsOSRD
+preplace inst Selector_0 -pg 1 -lvl 11 -x 5480 -y 810 -defaultsOSRD
+preplace inst ADC|axis_red_pitaya_adc_0 -pg 1 -lvl 1 -x 260 -y 2102 -defaultsOSRD
+preplace inst ADC|clk_wiz_0 -pg 1 -lvl 2 -x 480 -y 2152 -defaultsOSRD
+preplace inst Input_Processing|low_pass_0 -pg 1 -lvl 1 -x 1430 -y 1592 -defaultsOSRD
+preplace inst Input_Processing|scale_0 -pg 1 -lvl 2 -x 1720 -y 1612 -defaultsOSRD
+preplace inst Input_Processing|divider_0 -pg 1 -lvl 3 -x 1990 -y 1632 -defaultsOSRD
+preplace netloc Hivemind_0_PI_Config 1 1 7 980 960 2260 930 N 930 N 930 N 930 3490 960 N
+preplace netloc Hivemind_0_Ramp_count 1 1 6 960 930 2240 910 N 910 N 910 N 910 3520
+preplace netloc Hivemind_0_Ramp_cutoff 1 1 6 950 880 N 880 N 880 N 880 N 880 3490
+preplace netloc Hivemind_0_Ramp_reset 1 1 6 970 950 2250 920 N 920 N 920 N 920 3530
+preplace netloc Hivemind_0_Scale_Config 1 1 1 930 1530n
+preplace netloc Hivemind_0_Scan_Mode 1 1 3 1040 1090 N 1090 2560
+preplace netloc Hivemind_0_Scan_Overshoot 1 1 3 1050 1110 N 1110 2590
+preplace netloc Hivemind_0_Select_PID 1 1 11 940 650 N 650 NJ 650 NJ 650 NJ 650 N 650 N 650 NJ 650 NJ 650 5310 550 N
+preplace netloc Hivemind_0_divider_signal 1 1 1 990 1390n
+preplace netloc Hivemind_0_forwards_backwards_out 1 1 6 850 910 2230 900 N 900 N 900 N 900 3510
+preplace netloc Hivemind_0_lp_RC_a 1 1 1 1020 1550n
+preplace netloc Hivemind_0_lp_RC_b 1 1 1 950 1590n
+preplace netloc Hivemind_0_lp_exp_a 1 1 1 970 1570n
+preplace netloc Hivemind_0_lp_exp_b 1 1 1 920 1610n
+preplace netloc Hivemind_0_reset_min_max 1 1 3 1070 1100 N 1100 2580
+preplace netloc Hivemind_0_zero_latch 1 1 4 1060 1160 NJ 1160 NJ 1160 2920J
+preplace netloc LED_Contoller_0_LED_Signal 1 12 1 N 570
+preplace netloc PI_ctrl_0_led 1 8 4 4660 570 NJ 570 NJ 570 NJ
+preplace netloc Scan_0_Hold_Pulse 1 4 1 N 1050
+preplace netloc adc_clk_n_i_1 1 0 1 -180J 890n
+preplace netloc adc_clk_p_i_1 1 0 1 -160J 870n
+preplace netloc adc_dat_a_i_1 1 0 1 -200J 910n
+preplace netloc adc_dat_b_i_1 1 0 1 -210J 930n
+preplace netloc axi_gpio_0_gpio_io_o 1 0 2 -40 1750 880
+preplace netloc axi_gpio_10_gpio_io_o 1 0 2 -50 -550 730J
+preplace netloc axi_gpio_1_gpio_io_o 1 0 2 -30 1760 860
+preplace netloc axi_gpio_2_gpio_io_o 1 0 2 -20 1770 870
+preplace netloc axi_gpio_3_gpio_io_o 1 0 2 -10 1780 890
+preplace netloc axi_gpio_4_gpio_io_o 1 0 2 -100 -750 730
+preplace netloc axi_gpio_5_gpio_io_o 1 0 2 -90 -570 740
+preplace netloc axi_gpio_6_gpio_io_o 1 0 2 -130 -1420 820
+preplace netloc axi_gpio_7_gpio_io_o 1 0 2 -80 -380 720
+preplace netloc axi_gpio_8_gpio_io_o 1 0 2 -70 -370 780
+preplace netloc axi_gpio_9_gpio_io_o 1 0 2 -110 -560 840
+preplace netloc axis_red_pitaya_adc_0_adc_clk 1 0 12 -60 1790 1090 1170 N 1170 2570 1170 2910 870 N 870 3480 720 3840 1040 4690 1150 5020 770 5330 700 5630
+preplace netloc axis_red_pitaya_adc_0_adc_csn 1 1 12 1000 670 N 670 NJ 670 NJ 670 N 670 N 670 N 670 NJ 670 NJ 670 N 670 N 670 5990
+preplace netloc axis_red_pitaya_dac_0_dac_clk 1 12 1 N 800
+preplace netloc axis_red_pitaya_dac_0_dac_dat 1 12 1 5970 880n
+preplace netloc axis_red_pitaya_dac_0_dac_rst 1 12 1 N 820
+preplace netloc axis_red_pitaya_dac_0_dac_sel 1 12 1 N 840
+preplace netloc axis_red_pitaya_dac_0_dac_wrt 1 12 1 5980 860n
+preplace netloc clk_wiz_0_clk_out1 1 1 11 1030 680 N 680 N 680 N 680 N 680 N 680 N 680 N 680 N 680 N 680 5640
+preplace netloc clk_wiz_0_locked 1 1 11 1110 1180 N 1180 N 1180 N 1180 N 1180 N 1180 3880 1060 4670 1140 5030 940 N 940 5640
+preplace netloc daisy_n_i_1 1 0 8 -190J 1070 N 1070 2230 1190 NJ 1190 2920J 1170 N 1170 N 1170 3890
+preplace netloc daisy_p_i_1 1 0 8 -170J -580 N -580 N -580 NJ -580 NJ -580 N -580 N -580 3860
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 12 -140 -1410 910 590 N 590 NJ 590 NJ 590 NJ 590 N 590 N 590 NJ 590 N 590 N 590 N
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 2 -10 1800 720
+preplace netloc rst_ps7_0_50M_peripheral_aresetn 1 0 2 -120 -1400 900
+preplace netloc util_ds_buf_1_IBUF_OUT 1 8 1 4700 1060n
+preplace netloc util_ds_buf_2_OBUF_DS_N 1 9 4 NJ 1080 N 1080 N 1080 5990
+preplace netloc util_ds_buf_2_OBUF_DS_P 1 9 4 NJ 1060 N 1060 N 1060 5980
+preplace netloc util_vector_logic_0_Res 1 7 1 3850 980n
+preplace netloc exp_p_tri_io_1 1 0 1 -150 850n
+preplace netloc Hivemind_0_ramp_on_off 1 1 6 1010 890 NJ 890 NJ 890 NJ 890 NJ 890 3500
+preplace netloc Hivemind_0_sample_and_hold 1 1 8 1080J 1150 NJ 1150 NJ 1150 NJ 1150 NJ 1150 3500 1150 3870 1050 4680
+preplace netloc Latch_0_on_off 1 5 6 3160J 850 3460 700 3880 720 N 720 N 720 5300
+preplace netloc util_vector_logic_1_Res 1 6 1 N 1070
+preplace netloc Add_0_M_AXIS 1 10 1 5290 760n
+preplace netloc Input_Processing_M_AXIS 1 2 1 2250 1010n
+preplace netloc PI_ctrl_0_M_AXIS 1 8 1 4670 900n
+preplace netloc Ramp_0_m_axis 1 7 1 3830 780n
+preplace netloc Selector_0_M_AXIS 1 11 1 N 810
+preplace netloc Voltage_Holder_0_M_AXIS 1 8 1 4650 790n
+preplace netloc Voltage_Holder_1_M_AXIS 1 9 1 5010 860n
+preplace netloc axis_red_pitaya_adc_0_M_AXIS 1 1 1 1100 1542n
+preplace netloc processing_system7_0_DDR 1 1 12 920 660 N 660 N 660 N 660 N 660 N 660 N 660 N 660 N 660 N 660 N 660 5990
+preplace netloc processing_system7_0_FIXED_IO 1 1 12 930 690 N 690 N 690 N 690 N 690 N 690 N 690 N 690 N 690 N 690 5650 700 N
+preplace netloc processing_system7_0_M_AXI_GP0 1 0 2 -10 120 770
+preplace netloc ps7_0_axi_periph_M00_AXI 1 0 2 -100 -1390 830
+preplace netloc ps7_0_axi_periph_M01_AXI 1 0 2 -100 -910 800
+preplace netloc ps7_0_axi_periph_M02_AXI 1 0 2 -100 -1070 810
+preplace netloc ps7_0_axi_periph_M03_AXI 1 0 2 -100 -1230 850
+preplace netloc ps7_0_axi_periph_M04_AXI 1 0 2 -50 -740 790
+preplace netloc ps7_0_axi_periph_M05_AXI 1 0 2 -10 -540 760
+preplace netloc ps7_0_axi_periph_M06_AXI 1 0 2 -10 -360 740
+preplace netloc ps7_0_axi_periph_M07_AXI 1 0 2 -10 -40 730
+preplace netloc ps7_0_axi_periph_M08_AXI 1 0 2 -10 900 730
+preplace netloc ps7_0_axi_periph_M09_AXI 1 0 2 -10 910 720J
+preplace netloc ps7_0_axi_periph_M10_AXI 1 0 2 -10 -200 750
+preplace netloc signal_split_0_M_AXIS_PORT1 1 3 5 2570 950 N 950 N 950 N 950 3830
+preplace netloc signal_split_0_M_AXIS_PORT2 1 3 1 N 1010
+preplace netloc signal_split_0_M_AXIS_PORT3 1 3 8 2560 860 N 860 N 860 3470 710 N 710 N 710 N 710 5320
+preplace netloc signal_split_2_0_M_AXIS_PORT1 1 9 2 N 780 N
+preplace netloc signal_split_2_0_M_AXIS_PORT2 1 9 1 5010 800n
+preplace netloc ADC|adc_clk_n_i_1 1 0 1 N 2092
+preplace netloc ADC|adc_clk_p_i_1 1 0 1 N 2072
+preplace netloc ADC|adc_dat_a_i_1 1 0 1 N 2112
+preplace netloc ADC|adc_dat_b_i_1 1 0 1 N 2132
+preplace netloc ADC|axis_red_pitaya_adc_0_adc_clk 1 1 2 380 2222 NJ
+preplace netloc ADC|axis_red_pitaya_adc_0_adc_csn 1 1 2 390 2072 590J
+preplace netloc ADC|clk_wiz_0_clk_out1 1 2 1 580 2142n
+preplace netloc ADC|clk_wiz_0_locked 1 2 1 570 2162n
+preplace netloc ADC|axis_red_pitaya_adc_0_M_AXIS 1 1 2 N 2082 NJ
+preplace netloc Input_Processing|Controller_Scale_Config 1 0 2 NJ 1722 1580
+preplace netloc Input_Processing|Controller_lp_RC_a 1 0 1 N 1582
+preplace netloc Input_Processing|Controller_lp_RC_b 1 0 1 N 1602
+preplace netloc Input_Processing|Controller_lp_exp_a 1 0 1 N 1622
+preplace netloc Input_Processing|Controller_lp_exp_b 1 0 1 N 1642
+preplace netloc Input_Processing|Hivemind_0_divider_signal 1 0 3 1270J 1712 NJ 1712 1850
+preplace netloc Input_Processing|axis_red_pitaya_adc_0_adc_clk 1 0 3 1280 1702 1590 1692 1860J
+preplace netloc Input_Processing|axis_red_pitaya_adc_0_M_AXIS 1 0 1 N 1542
+preplace netloc Input_Processing|divider_0_M_AXIS 1 3 1 N 1632
+preplace netloc Input_Processing|low_pass_0_M_AXIS 1 1 1 N 1592
+preplace netloc Input_Processing|scale_0_M_AXIS 1 2 1 N 1612
+levelinfo -pg 1 -230 210 1340 2410 2750 3040 3310 3680 4500 4860 5160 5480 5810 6010
+levelinfo -hier ADC * 260 480 *
+levelinfo -hier Input_Processing * 1430 1720 1990 *
+pagesize -pg 1 -db -bbox -sgen -400 -1430 6170 3830
+pagesize -hier ADC -db -bbox -sgen 110 2012 620 2292
+pagesize -hier Input_Processing -db -bbox -sgen 1240 1462 2150 1732
+"
+}
+{
+   "da_axi4_cnt":"20",
+   "da_clkrst_cnt":"1",
+   "da_ps7_cnt":"1"
+}

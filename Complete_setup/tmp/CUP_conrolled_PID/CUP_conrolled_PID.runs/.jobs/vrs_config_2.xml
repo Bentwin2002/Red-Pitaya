@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="system_axi_gpio_3_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_3_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_7_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_7_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_1_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_LED_Contoller_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_LED_Contoller_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_2_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_5_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_5_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_rst_ps7_0_50M_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_rst_ps7_0_50M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_4_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_4_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_xbar_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_2_2_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_2_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_2_1_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axi_gpio_2_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_Scan_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_Scan_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_Selector_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_Selector_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_processing_system7_0_1_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_processing_system7_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axis_red_pitaya_adc_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axis_red_pitaya_adc_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axis_red_pitaya_dac_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_axis_red_pitaya_dac_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_signal_split_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_signal_split_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_clk_wiz_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_clk_wiz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_divider_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_divider_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_Ramp_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_Ramp_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_PI_ctrl_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_PI_ctrl_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_low_pass_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_low_pass_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_util_ds_buf_1_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_util_ds_buf_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_util_ds_buf_2_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_util_ds_buf_2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_scale_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_scale_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_Hivemind_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_Hivemind_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_auto_pc_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_Latch_0_0_synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/system_Latch_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="system_axi_gpio_3_0_synth_1"/>
+		<Parent Id="system_axi_gpio_7_0_synth_1"/>
+		<Parent Id="system_axi_gpio_0_0_synth_1"/>
+		<Parent Id="system_axi_gpio_1_0_synth_1"/>
+		<Parent Id="system_LED_Contoller_0_0_synth_1"/>
+		<Parent Id="system_axi_gpio_2_0_synth_1"/>
+		<Parent Id="system_axi_gpio_5_0_synth_1"/>
+		<Parent Id="system_rst_ps7_0_50M_0_synth_1"/>
+		<Parent Id="system_axi_gpio_4_0_synth_1"/>
+		<Parent Id="system_xbar_0_synth_1"/>
+		<Parent Id="system_axi_gpio_2_2_synth_1"/>
+		<Parent Id="system_axi_gpio_2_1_synth_1"/>
+		<Parent Id="system_Scan_0_0_synth_1"/>
+		<Parent Id="system_Selector_0_0_synth_1"/>
+		<Parent Id="system_processing_system7_0_1_synth_1"/>
+		<Parent Id="system_axis_red_pitaya_adc_0_0_synth_1"/>
+		<Parent Id="system_axis_red_pitaya_dac_0_0_synth_1"/>
+		<Parent Id="system_signal_split_0_0_synth_1"/>
+		<Parent Id="system_clk_wiz_0_0_synth_1"/>
+		<Parent Id="system_divider_0_0_synth_1"/>
+		<Parent Id="system_Ramp_0_0_synth_1"/>
+		<Parent Id="system_PI_ctrl_0_0_synth_1"/>
+		<Parent Id="system_low_pass_0_0_synth_1"/>
+		<Parent Id="system_util_ds_buf_1_0_synth_1"/>
+		<Parent Id="system_util_ds_buf_2_0_synth_1"/>
+		<Parent Id="system_scale_0_0_synth_1"/>
+		<Parent Id="system_Hivemind_0_0_synth_1"/>
+		<Parent Id="system_auto_pc_0_synth_1"/>
+		<Parent Id="system_Latch_0_0_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="C:/Users/BenMillward/Desktop/Complete_setup/tmp/CUP_conrolled_PID/CUP_conrolled_PID.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+		<Parent Id="system_axi_gpio_3_0_synth_1"/>
+		<Parent Id="system_axi_gpio_7_0_synth_1"/>
+		<Parent Id="system_axi_gpio_0_0_synth_1"/>
+		<Parent Id="system_axi_gpio_1_0_synth_1"/>
+		<Parent Id="system_LED_Contoller_0_0_synth_1"/>
+		<Parent Id="system_axi_gpio_2_0_synth_1"/>
+		<Parent Id="system_axi_gpio_5_0_synth_1"/>
+		<Parent Id="system_rst_ps7_0_50M_0_synth_1"/>
+		<Parent Id="system_axi_gpio_4_0_synth_1"/>
+		<Parent Id="system_xbar_0_synth_1"/>
+		<Parent Id="system_axi_gpio_2_2_synth_1"/>
+		<Parent Id="system_axi_gpio_2_1_synth_1"/>
+		<Parent Id="system_Scan_0_0_synth_1"/>
+		<Parent Id="system_Selector_0_0_synth_1"/>
+		<Parent Id="system_processing_system7_0_1_synth_1"/>
+		<Parent Id="system_axis_red_pitaya_adc_0_0_synth_1"/>
+		<Parent Id="system_axis_red_pitaya_dac_0_0_synth_1"/>
+		<Parent Id="system_signal_split_0_0_synth_1"/>
+		<Parent Id="system_clk_wiz_0_0_synth_1"/>
+		<Parent Id="system_divider_0_0_synth_1"/>
+		<Parent Id="system_Ramp_0_0_synth_1"/>
+		<Parent Id="system_PI_ctrl_0_0_synth_1"/>
+		<Parent Id="system_low_pass_0_0_synth_1"/>
+		<Parent Id="system_util_ds_buf_1_0_synth_1"/>
+		<Parent Id="system_util_ds_buf_2_0_synth_1"/>
+		<Parent Id="system_scale_0_0_synth_1"/>
+		<Parent Id="system_Hivemind_0_0_synth_1"/>
+		<Parent Id="system_auto_pc_0_synth_1"/>
+		<Parent Id="system_Latch_0_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+
